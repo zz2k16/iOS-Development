@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Volumes/SSDEVO/MacOS/Development/Xcode/Playgrounds/initialization.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=930&amp;EndingLineNumber=36&amp;StartingLineNumber=36&amp;Timestamp=517781785.27772"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=1&amp;CharacterRangeLoc=3390&amp;EndingColumnNumber=18&amp;EndingLineNumber=58&amp;StartingColumnNumber=1&amp;StartingLineNumber=58&amp;Timestamp=517863936.932784"
+         lockedSize = "{636, 114}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=0&amp;CharacterRangeLoc=3390&amp;EndingColumnNumber=9&amp;EndingLineNumber=58&amp;StartingColumnNumber=1&amp;StartingLineNumber=58&amp;Timestamp=517863936.932864"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=0&amp;CharacterRangeLoc=6441&amp;EndingColumnNumber=28&amp;EndingLineNumber=152&amp;StartingColumnNumber=1&amp;StartingLineNumber=152&amp;Timestamp=517867843.626935"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
